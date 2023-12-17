@@ -1,6 +1,6 @@
 # Are you an Amoeba?
 
-A simple amoeba detection tool. Works for local and global amoebas. For a more complete tool see Marcos Laffitte's repo at [2].
+This repo provides a simple amoeba detection tool. Works for local and global amoebas. For a much more complete program see Marcos Laffitte's repo at [2]. Finding more efficient alternatives to both our algorithms is an open problem in algebraic graph theory: see Chapter 6 of [3].
 
 ## Mathematical background
 
@@ -17,3 +17,5 @@ The functions in the code take `networkX` graph objects as input. An example pro
 [1] <a href="https://www.combinatorics.org/ojs/index.php/eljc/article/download/v30i3p9/pdf/">Caro, Y., Hansberg, A., Montejano, A. (2023). *Graphs isomorphisms under edge-replacements and the family of amoebas*. **Electronic Journal of Combinatorics 30(3) P3.9**</a><br/>
 
 [2] https://github.com/MarcosLaffitte/Amoebas
+
+[3] Marcos Emmanuel González Laffitte, Tesis de Maestría en Ciencias Matemáticas, UNAM, "Estudio de Amoebas y sus Propiedades: Detección Computacional de esta Familia de Gráficas y el Caso de los Reemplazos Raros", p. 111, 2022. Complete text Available in Spanish at: http://132.248.9.195/ptd2022/septiembre/0831065/Index.html
